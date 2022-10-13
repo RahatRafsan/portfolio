@@ -69,17 +69,21 @@ h1 {
 }
 
 #developer-exp {
-    border-left: 7px solid;
-    border-image: linear-gradient(blue cyan);
-    border-image-slice: 1;
+    border-left: 7px solid #D1345B;
+
+
+
+
 
 }
 
 #marketing-exp {
-    border-left: 7px solid;
-    border-image: linear-gradient(salmon tomato);
-    border-image-slice: 1;
+    border-left: 7px solid #D1345B;
+
+
+
 }
-footer{
+
+footer {
     text-align: center;
 }
